@@ -1,3 +1,3 @@
 # Socialite
 Django Project
-A Fully Functioning Social Media Website
+A Test Social Media Website
